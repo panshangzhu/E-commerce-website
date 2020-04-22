@@ -1,0 +1,10 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const FETCH_USERS = "FETCH_USERS";
+export const FETCH_USER = "FETCH_USER";
+export const ADD_USER = "ADD_USER";
+export const GET_CART = "GET_CART";
+export const ADD_CART="ADD_CART";
+export const DELETE_CART='DELETE_CART'
+export const EDIT_CART="EDIT_CART"
+export const CLEAR_CART="CLEAR_CART"
